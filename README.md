@@ -15,7 +15,7 @@
 
 ### Sobre Mí
 - Actualmente aprendiendo Java y PHP
-- Me gusta mucho la todo lo relacionado con la tecnologia
+- Me gusta mucho todo lo relacionado con la tecnologia
 - En un futuro me encantaria poder colaborar subiendo mi codigo
 
 ### Lenguajes de programación y herramientas conocidas
